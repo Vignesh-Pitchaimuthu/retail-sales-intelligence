@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence",
+  "description": "An executive retail sales dashboard for business managers with dynamic KPI cards, weekly trend charts, region performance, category analysis, stockout risks, and automatic business insight summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
